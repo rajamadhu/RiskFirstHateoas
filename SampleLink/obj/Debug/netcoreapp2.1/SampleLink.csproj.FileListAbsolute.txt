@@ -1,0 +1,14 @@
+C:\Users\rmadhu\Desktop\working\SampleLink\SampleLink\bin\Debug\netcoreapp2.1\SampleLink.deps.json
+C:\Users\rmadhu\Desktop\working\SampleLink\SampleLink\bin\Debug\netcoreapp2.1\SampleLink.runtimeconfig.json
+C:\Users\rmadhu\Desktop\working\SampleLink\SampleLink\bin\Debug\netcoreapp2.1\SampleLink.runtimeconfig.dev.json
+C:\Users\rmadhu\Desktop\working\SampleLink\SampleLink\bin\Debug\netcoreapp2.1\SampleLink.dll
+C:\Users\rmadhu\Desktop\working\SampleLink\SampleLink\bin\Debug\netcoreapp2.1\SampleLink.pdb
+C:\Users\rmadhu\Desktop\working\SampleLink\SampleLink\obj\Debug\netcoreapp2.1\SampleLink.csprojAssemblyReference.cache
+C:\Users\rmadhu\Desktop\working\SampleLink\SampleLink\obj\Debug\netcoreapp2.1\SampleLink.csproj.CoreCompileInputs.cache
+C:\Users\rmadhu\Desktop\working\SampleLink\SampleLink\obj\Debug\netcoreapp2.1\SampleLink.RazorAssemblyInfo.cache
+C:\Users\rmadhu\Desktop\working\SampleLink\SampleLink\obj\Debug\netcoreapp2.1\SampleLink.RazorAssemblyInfo.cs
+C:\Users\rmadhu\Desktop\working\SampleLink\SampleLink\obj\Debug\netcoreapp2.1\SampleLink.AssemblyInfoInputs.cache
+C:\Users\rmadhu\Desktop\working\SampleLink\SampleLink\obj\Debug\netcoreapp2.1\SampleLink.AssemblyInfo.cs
+C:\Users\rmadhu\Desktop\working\SampleLink\SampleLink\obj\Debug\netcoreapp2.1\SampleLink.RazorTargetAssemblyInfo.cache
+C:\Users\rmadhu\Desktop\working\SampleLink\SampleLink\obj\Debug\netcoreapp2.1\SampleLink.dll
+C:\Users\rmadhu\Desktop\working\SampleLink\SampleLink\obj\Debug\netcoreapp2.1\SampleLink.pdb
